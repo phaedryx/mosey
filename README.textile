@@ -1,5 +1,8 @@
 h2. mosey
 
-This theme was created by Tad Thorley (phaedryx).
+This is a simple, clean, straightforward colloquy theme/style.  I has variants for a dark background, ignoring events (for channels with lots of joiners/leavers), and large text.  It also has bip support.
 
-Bip support was added by Zach Wily (zwily)
+Move mosey.colloquyStyle to ~/Library/Application Support/Colloquy/Styles/ to install.
+
+This theme was created by Tad Thorley (phaedryx).
+Bip support was added by Zach Wily (zwily).
