@@ -1,0 +1,5 @@
+h2. mosey
+
+This theme was created by Tad Thorley (phaedryx).
+
+Bip support was added by Zach Wily (zwily)
